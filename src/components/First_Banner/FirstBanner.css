@@ -1,3 +1,8 @@
 .section{
     background-color: #0F3C53;
 }
+
+.button :hover{
+    background-color: #8EACA6;
+    transition: .6s
+}
